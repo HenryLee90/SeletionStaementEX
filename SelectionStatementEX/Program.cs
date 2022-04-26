@@ -33,10 +33,10 @@ namespace SelectionStatementEX
 
 
             }
-            else ()
+            else;
             {
 
-                Console.WriteLine($"Sorry this dont make sense to me?");
+                Console.WriteLine($"");
 
 
 

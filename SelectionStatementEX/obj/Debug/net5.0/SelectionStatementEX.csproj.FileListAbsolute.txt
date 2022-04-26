@@ -1,0 +1,16 @@
+C:\Users\hlee0\OneDrive\Desktop\repos\SelectionStatementEX\SelectionStatementEX\obj\Debug\net5.0\SelectionStatementEX.csproj.AssemblyReference.cache
+C:\Users\hlee0\OneDrive\Desktop\repos\SelectionStatementEX\SelectionStatementEX\obj\Debug\net5.0\SelectionStatementEX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hlee0\OneDrive\Desktop\repos\SelectionStatementEX\SelectionStatementEX\obj\Debug\net5.0\SelectionStatementEX.AssemblyInfoInputs.cache
+C:\Users\hlee0\OneDrive\Desktop\repos\SelectionStatementEX\SelectionStatementEX\obj\Debug\net5.0\SelectionStatementEX.AssemblyInfo.cs
+C:\Users\hlee0\OneDrive\Desktop\repos\SelectionStatementEX\SelectionStatementEX\obj\Debug\net5.0\SelectionStatementEX.csproj.CoreCompileInputs.cache
+C:\Users\hlee0\OneDrive\Desktop\repos\SelectionStatementEX\SelectionStatementEX\bin\Debug\net5.0\SelectionStatementEX.exe
+C:\Users\hlee0\OneDrive\Desktop\repos\SelectionStatementEX\SelectionStatementEX\bin\Debug\net5.0\SelectionStatementEX.deps.json
+C:\Users\hlee0\OneDrive\Desktop\repos\SelectionStatementEX\SelectionStatementEX\bin\Debug\net5.0\SelectionStatementEX.runtimeconfig.json
+C:\Users\hlee0\OneDrive\Desktop\repos\SelectionStatementEX\SelectionStatementEX\bin\Debug\net5.0\SelectionStatementEX.runtimeconfig.dev.json
+C:\Users\hlee0\OneDrive\Desktop\repos\SelectionStatementEX\SelectionStatementEX\bin\Debug\net5.0\SelectionStatementEX.dll
+C:\Users\hlee0\OneDrive\Desktop\repos\SelectionStatementEX\SelectionStatementEX\bin\Debug\net5.0\SelectionStatementEX.pdb
+C:\Users\hlee0\OneDrive\Desktop\repos\SelectionStatementEX\SelectionStatementEX\obj\Debug\net5.0\SelectionStatementEX.dll
+C:\Users\hlee0\OneDrive\Desktop\repos\SelectionStatementEX\SelectionStatementEX\obj\Debug\net5.0\refint\SelectionStatementEX.dll
+C:\Users\hlee0\OneDrive\Desktop\repos\SelectionStatementEX\SelectionStatementEX\obj\Debug\net5.0\SelectionStatementEX.pdb
+C:\Users\hlee0\OneDrive\Desktop\repos\SelectionStatementEX\SelectionStatementEX\obj\Debug\net5.0\SelectionStatementEX.genruntimeconfig.cache
+C:\Users\hlee0\OneDrive\Desktop\repos\SelectionStatementEX\SelectionStatementEX\obj\Debug\net5.0\ref\SelectionStatementEX.dll
